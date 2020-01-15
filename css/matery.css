@@ -164,12 +164,12 @@ mark {
 
 .bg-color {
     /* background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
-    background-image: linear-gradient(to right, #212633 0%, #1576ca 100%);
+    background-image: linear-gradient(to right, #1b4a78  0%, #1576ca 100%);
 }
 
 .text-color {
     /* color: #0f9d58 !important; */
-    color: #212837 !important;
+    color: #1b4a78  !important;
 }
 
 .white-color {
